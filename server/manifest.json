@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "bin_url": "https://github.com/myuser/esp-ota/releases/download/v1.0.1/firmware.bin",
+  "md5": "98777db3fd4072231f2ffd4c00e2b4e1",
+  "size": 535664,
+  "target_model": "ESP8266-GENERIC",
+  "force": false,
+  "notes": "Verified production build"
+}
